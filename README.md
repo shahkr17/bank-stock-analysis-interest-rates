@@ -1,5 +1,5 @@
 # bank-stock-analysis-interest-rates
-# 📈 Impact of Interest Rate Hikes on Major U.S. Bank Stocks (2019–2024)
+#  Impact of Interest Rate Hikes on Major U.S. Bank Stocks (2019–2024)
 
 This project explores the effect of U.S. Federal Reserve interest rate hikes on the stock performance of major banks — JPMorgan Chase (JPM), Goldman Sachs (GS), and Bank of America (BAC) — between 2019 and 2024.
 
@@ -7,13 +7,13 @@ The goal is to analyze trends, volatility, and return behavior around key rate h
 
 ---
 
-## 💡 Objective
+##  Objective
 
 To assess how monetary policy changes, specifically interest rate hikes, influenced stock performance of major banks. This project simulates real-world data analysis tasks relevant to roles in data science, finance, and fintech.
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 - Python (Pandas, Matplotlib, Seaborn)
 - Yahoo Finance API (`yfinance`)
@@ -22,7 +22,7 @@ To assess how monetary policy changes, specifically interest rate hikes, influen
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Source:** [Yahoo Finance](https://finance.yahoo.com/)
 - **Tickers Analyzed:** `JPM`, `GS`, `BAC`
@@ -31,7 +31,7 @@ To assess how monetary policy changes, specifically interest rate hikes, influen
 
 ---
 
-## 📈 Key Analysis Performed
+##  Key Analysis Performed
 
 1. **Download & Preprocess Data**
    - Adjusted close prices from Yahoo Finance
