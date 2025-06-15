@@ -50,5 +50,3 @@ To assess how monetary policy changes, specifically interest rate hikes, influen
    - Correlation between bank stocks
 
 ---
-
-## 🔎 Example Output
