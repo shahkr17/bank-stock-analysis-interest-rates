@@ -48,5 +48,22 @@ To assess how monetary policy changes, specifically interest rate hikes, influen
 
 5. **Correlation Matrix**
    - Correlation between bank stocks
+  
+# 📊 Bank Stock Price Dashboard (2019–2024)
+
+This interactive dashboard analyzes the performance of three major U.S. banks — JPMorgan Chase (JPM), Bank of America (BAC), and Goldman Sachs (GS) — around Federal Reserve interest rate hikes from 2019 to 2024.
+
+## 🔍 Key Features
+- Latest stock prices with dynamic updates
+- Stock price trends over time (line chart)
+- Yearly aggregated price totals (bar chart)
+- Bank-wise market share distribution (pie chart)
+- Interactive date range filtering
+- Built using [Tool Name Here] and stock data sourced from [Data Source]
+
+## 🎯 Insights
+- GS stock showed consistent cumulative growth despite Fed interventions.
+- BAC had the lowest total price distribution across the period.
+
 
 ---
