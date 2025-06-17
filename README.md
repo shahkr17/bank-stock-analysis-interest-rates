@@ -65,5 +65,11 @@ This interactive dashboard analyzes the performance of three major U.S. banks â€
 - GS stock showed consistent cumulative growth despite Fed interventions.
 - BAC had the lowest total price distribution across the period.
 
+## ðŸ”§ Tools Used
+
+- Power BI
+- Python (Pandas, Matplotlib)
+- GitHub
+
 
 ---
