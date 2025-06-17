@@ -5,6 +5,9 @@ This project explores the effect of U.S. Federal Reserve interest rate hikes on 
 
 The goal is to analyze trends, volatility, and return behavior around key rate hike events using Python, and visualize the data both in code and via a Power BI dashboard.
 
+## Disclaimer
+This project is for educational and analytical purposes only. It does not constitute financial advice or investment recommendations.
+
 ---
 
 ##  Objective
