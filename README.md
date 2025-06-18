@@ -62,7 +62,6 @@ This interactive dashboard analyzes the performance of three major U.S. banks â€
 - Yearly aggregated price totals (bar chart)
 - Bank-wise market share distribution (pie chart)
 - Interactive date range filtering
-- Built using [Tool Name Here] and stock data sourced from [Data Source]
 
 ## ðŸŽ¯ Insights
 - GS stock showed consistent cumulative growth despite Fed interventions.
